@@ -3,22 +3,22 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alejandro-blanco-rodr%C3%ADguez-13977530b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:alexxblaro@gmail.com"><img src="https://img.shields.io/badge/Email-alexxblaro%40gmail.com-1b1f27?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Madrid-España-2fbf71?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Madrid, España">
-  <img src="https://img.shields.io/badge/Abierto_a-prácticas-a970ff?style=for-the-badge" alt="Abierto a prácticas">
+  <a href="https://alexxblaro16.github.io/portfolio-template-2026/"><img src="https://img.shields.io/badge/Portfolio-1b1f27?style=for-the-badge&logo=googlechrome&logoColor=2fbf71" alt="Ver mi portfolio"></a>
+  <a href="https://www.linkedin.com/in/alejandro-blanco-rodr%C3%ADguez-13977530b/"><img src="https://img.shields.io/badge/LinkedIn-1b1f27?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzJmYmY3MSIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4=" alt="Mi perfil de LinkedIn"></a>
+  <a href="mailto:alexxblaro@gmail.com"><img src="https://img.shields.io/badge/Email-1b1f27?style=for-the-badge&logo=gmail&logoColor=2fbf71" alt="Escríbeme un email"></a>
+  <a href="mailto:alexxblaro@gmail.com?subject=Pr%C3%A1cticas%20-%20Alejandro%20Blanco"><img src="https://img.shields.io/badge/Abierto_a_pr%C3%A1cticas-2fbf71?style=for-the-badge&logo=minutemailer&logoColor=1b1f27" alt="Contactar para unas prácticas"></a>
 </p>
 
 ## `> whoami`
 
-Técnico Superior en **DAM** y estudiante de **3.º de Desarrollo de Software Full Stack** en UDIT (Madrid).
-Trabajo en front y back, con el front como punto fuerte, y me gusta entender cómo funciona todo por debajo.
+Técnico Superior en Desarrollo de Aplicaciones Multiplataforma y estudiante de 3.º del Grado en Desarrollo de
+Software Full Stack en UDIT (Madrid). Trabajo en front y back con Java, React, Laravel y Python. El front es mi
+punto fuerte, pero me interesa entender el sistema completo, desde la base de datos hasta el despliegue.
 
-- 🏆 **MedScan**: app con IA para evitar errores con la medicación. **4.º premio en el hackatón OdiseIA4Good**, con cobertura en RTVE, Antena 3 y El Español.
-- 🧩 **VirtualpH · CSIC**: lead de frontend en una app de escritorio para monitorizar museos (Electron + React + Laravel + Docker).
-- 🔁 Trabajo en equipo con **ramas, pull requests, revisión de código y CI** con GitHub Actions.
-- 🎯 Busco **prácticas** con opción a media jornada compatible con mis estudios.
-
+- **MedScan** · app con IA para evitar errores con la medicación. 4.º premio en el hackatón OdiseIA4Good, con cobertura en RTVE, Antena 3 y El Español.
+- **VirtualpH (CSIC)** · lead de frontend en una aplicación de escritorio para monitorizar sensores en museos, con Electron, React, Laravel y Docker.
+- **Forma de trabajar** · ramas, pull requests, revisión de código e integración continua con GitHub Actions.
+- **Ahora mismo** · busco prácticas con opción a media jornada compatible con mis estudios.
 ## `> stack`
 
 <p>
