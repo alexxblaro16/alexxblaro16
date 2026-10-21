@@ -45,10 +45,12 @@ Trabajo en front y back, con el front como punto fuerte, y me gusta entender có
 
 ## `> actividad`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexxblaro16/alexxblaro16/output/serpiente-oscura.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexxblaro16/alexxblaro16/output/serpiente.svg">
-  <img alt="Serpiente que se come mis contribuciones" src="https://raw.githubusercontent.com/alexxblaro16/alexxblaro16/output/serpiente-oscura.svg" width="100%">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexxblaro16/alexxblaro16/output/serpiente-oscura.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexxblaro16/alexxblaro16/output/serpiente.svg">
+    <img alt="Serpiente que se come mis contribuciones" src="https://raw.githubusercontent.com/alexxblaro16/alexxblaro16/output/serpiente-oscura.svg" width="90%">
+  </picture>
+</p>
 
 <p align="center"><sub><code>// mi primer lenguaje fue Java, y mi primera línea, un Hello, World!</code></sub></p>
