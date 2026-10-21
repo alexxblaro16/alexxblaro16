@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Alejandro Blanco Rodríguez · Desarrollador Full Stack Junior">
+  <defs>
+    <style>
+      .m { font-family: "JetBrains Mono", "Cascadia Code", Consolas, "SFMono-Regular", Menlo, monospace; font-size: 21px; }
+      .k { fill: #c678dd; } .t { fill: #e5c07b; } .s { fill: #98c379; } .c { fill: #7f848e; font-style: italic; }
+      .p { fill: #abb2bf; } .n { fill: #61afef; } .v { fill: #e06c75; } .l { fill: #4b5263; }
+    </style>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1b1f27"/><stop offset="1" stop-color="#232a35"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="340" rx="16" fill="url(#g)"/>
+  <!-- barra de la ventana -->
+  <rect width="1200" height="46" rx="16" fill="#151920"/>
+  <rect y="30" width="1200" height="16" fill="#151920"/>
+  <circle cx="30" cy="23" r="7" fill="#ff5f57"/><circle cx="54" cy="23" r="7" fill="#febc2e"/><circle cx="78" cy="23" r="7" fill="#28c840"/>
+  <rect x="110" y="10" width="186" height="36" rx="7" fill="#1b1f27"/>
+  <text x="128" y="34" class="m p" style="font-size:16px">☕ HelloWorld.java</text>
+  <!-- código -->
+  <g class="m">
+    <text x="28" y="96" class="l">1</text>
+    <text x="70" y="96"><tspan class="k">public class</tspan><tspan class="t"> AlejandroBlanco</tspan><tspan class="p"> {</tspan></text>
+    <text x="28" y="132" class="l">2</text>
+    <text x="121" y="132"><tspan class="t">String</tspan><tspan class="v"> rol</tspan><tspan class="p"> = </tspan><tspan class="s">"Desarrollador Full Stack Junior"</tspan><tspan class="p">;</tspan></text>
+    <text x="28" y="168" class="l">3</text>
+    <text x="121" y="168"><tspan class="t">String</tspan><tspan class="p">[] </tspan><tspan class="v">stack</tspan><tspan class="p"> = { </tspan><tspan class="s">"Java"</tspan><tspan class="p">, </tspan><tspan class="s">"React"</tspan><tspan class="p">, </tspan><tspan class="s">"Laravel"</tspan><tspan class="p">, </tspan><tspan class="s">"Python"</tspan><tspan class="p"> };</tspan></text>
+    <text x="28" y="204" class="l">4</text>
+    <text x="121" y="204"><tspan class="t">String</tspan><tspan class="v"> base</tspan><tspan class="p"> = </tspan><tspan class="s">"Madrid · UDIT · 3.º Full Stack"</tspan><tspan class="p">;</tspan></text>
+    <text x="28" y="240" class="l">5</text>
+    <text x="28" y="276" class="l">6</text>
+    <text x="121" y="276"><tspan class="k">public static void</tspan><tspan class="n"> main</tspan><tspan class="p">(</tspan><tspan class="t">String</tspan><tspan class="p">[] args) { </tspan><tspan class="t">System</tspan><tspan class="p">.out.</tspan><tspan class="n">println</tspan><tspan class="p">(</tspan><tspan class="s">"Hello, World!"</tspan><tspan class="p">); }</tspan></text>
+    <text x="28" y="312" class="l">7</text>
+    <text x="70" y="312" class="p">}</text>
+    <text x="1172" y="312" class="c" text-anchor="end" style="font-size:16px">// donde empezó todo</text>
+  </g>
+</svg>
