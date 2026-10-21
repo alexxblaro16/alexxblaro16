@@ -43,4 +43,12 @@ Trabajo en front y back, con el front como punto fuerte, y me gusta entender có
 | [**AED 2**](https://github.com/alexxblaro16/aed2-udit) | Árboles, grafos, heap, tabla hash propia y Dijkstra con memoria gestionada a mano. | C++20 · CMake |
 | [**Jerry EV3**](https://github.com/alexxblaro16/jerry-ev3) | Robot LEGO EV3 para siguelíneas, sumo y mando web desde el móvil. | MicroPython |
 
+## `> actividad`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexxblaro16/alexxblaro16/output/serpiente-oscura.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexxblaro16/alexxblaro16/output/serpiente.svg">
+  <img alt="Serpiente que se come mis contribuciones" src="https://raw.githubusercontent.com/alexxblaro16/alexxblaro16/output/serpiente-oscura.svg" width="100%">
+</picture>
+
 <p align="center"><sub><code>// mi primer lenguaje fue Java, y mi primera línea, un Hello, World!</code></sub></p>
