@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://alexxblaro16.github.io/portfolio-template-2026/"><img src="https://img.shields.io/badge/Portfolio-1b1f27?style=for-the-badge&logo=googlechrome&logoColor=2fbf71" alt="Ver mi portfolio"></a>
+  <a href="https://alexxblaro16.github.io/"><img src="https://img.shields.io/badge/Portfolio_(juego)-1b1f27?style=for-the-badge&logo=googlechrome&logoColor=2fbf71" alt="Ver mi portfolio"></a>
   <a href="https://www.linkedin.com/in/alejandro-blanco-rodr%C3%ADguez-13977530b/"><img src="https://img.shields.io/badge/LinkedIn-1b1f27?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzJmYmY3MSIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4=" alt="Mi perfil de LinkedIn"></a>
   <a href="mailto:alexxblaro@gmail.com"><img src="https://img.shields.io/badge/Email-1b1f27?style=for-the-badge&logo=gmail&logoColor=2fbf71" alt="Escríbeme un email"></a>
   <a href="mailto:alexxblaro@gmail.com?subject=Pr%C3%A1cticas%20-%20Alejandro%20Blanco"><img src="https://img.shields.io/badge/Abierto_a_pr%C3%A1cticas-2fbf71?style=for-the-badge&logo=minutemailer&logoColor=1b1f27" alt="Contactar para unas prácticas"></a>
@@ -35,6 +35,7 @@ punto fuerte, pero me interesa entender el sistema completo, desde la base de da
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
+| [**alejandro.blanco()**](https://github.com/alexxblaro16/alexxblaro16.github.io) · [jugar](https://alexxblaro16.github.io) | Mi portfolio como videojuego de pixel art: creas tu personaje y recorres mi vida, mis proyectos y mi stack. Todo el pixel art está dibujado con código. | Phaser 3 · Vite · JavaScript · GitHub Actions |
 | [**VirtualpH · CSIC**](https://github.com/alexxblaro16/proyecto-csic) | App de escritorio para monitorizar sensores y pH en museos. Lead de frontend. | Electron · React · Tailwind · Laravel · Docker |
 | [**PyKV**](https://github.com/alexxblaro16/software-engineering) | Base de datos clave-valor (log append-only + índice hash, estilo Bitcask) hecha en equipo. | Python · pytest · GitHub Actions |
 | [**Helios Deck**](https://github.com/alexxblaro16/helios-deck) · [demo](https://helios-deck-liard.vercel.app) | Dashboard que agrega datos abiertos de USGS, NOAA y NASA en tiempo real. | TypeScript · React Router 7 (SSR) · Three.js |
