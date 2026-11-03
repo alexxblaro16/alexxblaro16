@@ -16,7 +16,8 @@ Software Full Stack en UDIT (Madrid). Trabajo en front y back con Java, React, L
 punto fuerte, pero me interesa entender el sistema completo, desde la base de datos hasta el despliegue.
 
 - **MedScan** · app con IA para evitar errores con la medicación. 4.º premio en el hackatón OdiseIA4Good, con cobertura en RTVE, Antena 3 y El Español.
-- **VirtualpH (CSIC)** · lead de frontend en una aplicación de escritorio para monitorizar sensores en museos, con Electron, React, Laravel y Docker.
+- **VirtualpH (CSIC)** · hice todo el frontend de una aplicación de escritorio para monitorizar el pH en museos (Electron, React, Laravel y Docker): 10 tareas por pull request y el manual de usuario.
+- **TTOD** · cuentas y acceso de la plataforma de Front End II con Astro, TypeScript y FastAPI: 7 pull requests integradas, con nota media de 92/100.
 - **Forma de trabajar** · ramas, pull requests, revisión de código e integración continua con GitHub Actions.
 - **Ahora mismo** · busco prácticas con opción a media jornada compatible con mis estudios.
 ## `> stack`
@@ -36,7 +37,8 @@ punto fuerte, pero me interesa entender el sistema completo, desde la base de da
 | Proyecto | Qué es | Stack |
 |---|---|---|
 | [**alejandro.blanco()**](https://github.com/alexxblaro16/alexxblaro16.github.io) · [jugar](https://alexxblaro16.github.io) | Mi portfolio como videojuego de pixel art: creas tu personaje y recorres mi vida, mis proyectos y mi stack. Todo el pixel art está dibujado con código. | Phaser 3 · Vite · JavaScript · GitHub Actions |
-| [**VirtualpH · CSIC**](https://github.com/alexxblaro16/proyecto-csic) | App de escritorio para monitorizar sensores y pH en museos. Lead de frontend. | Electron · React · Tailwind · Laravel · Docker |
+| [**VirtualpH · CSIC**](https://github.com/alexxblaro16/proyecto-csic) | App de escritorio para monitorizar sensores y pH en museos. Todo el frontend y el manual de usuario. | Electron · React · Tailwind · Laravel · Docker |
+| [**TTOD**](https://github.com/ruvebal/ttod) | Plataforma full stack de la asignatura Front End II. Cuentas, sesiones, tokens de API y roles, con 7 PR integradas. | Astro · TypeScript · FastAPI · Python |
 | [**PyKV**](https://github.com/alexxblaro16/software-engineering) | Base de datos clave-valor (log append-only + índice hash, estilo Bitcask) hecha en equipo. | Python · pytest · GitHub Actions |
 | [**Helios Deck**](https://github.com/alexxblaro16/helios-deck) · [demo](https://helios-deck-liard.vercel.app) | Dashboard que agrega datos abiertos de USGS, NOAA y NASA en tiempo real. | TypeScript · React Router 7 (SSR) · Three.js |
 | [**API de eventos**](https://github.com/alexxblaro16/eventos-api-udit) | API REST de una plataforma de eventos con tests. | Laravel · PHP · Docker |
