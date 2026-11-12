@@ -37,6 +37,7 @@ punto fuerte, pero me interesa entender el sistema completo, desde la base de da
 | Proyecto | Qué es | Stack |
 |---|---|---|
 | [**alejandro.blanco()**](https://github.com/alexxblaro16/alexxblaro16.github.io) · [jugar](https://alexxblaro16.github.io) | Mi portfolio como videojuego de pixel art: creas tu personaje y recorres mi vida, mis proyectos y mi stack. Todo el pixel art está dibujado con código. | Phaser 3 · Vite · JavaScript · GitHub Actions |
+| [**Off the Wall 3D**](https://github.com/alexxblaro16/feii-album-covers/tree/cover-off-the-wall-task2-shader/covers/off-the-wall) · [entrar](https://alexxblaro16.github.io/feii-album-covers/covers/off-the-wall) | La portada de *Off the Wall* de Michael Jackson como plató 3D que se recorre: Michael baila, suenan las canciones y puedes hacerle la foto. Funciona en ordenador, tableta y móvil. | Three.js · React Three Fiber · GLSL · Vite |
 | [**VirtualpH · CSIC**](https://github.com/alexxblaro16/proyecto-csic) | App de escritorio para monitorizar sensores y pH en museos. Todo el frontend y el manual de usuario. | Electron · React · Tailwind · Laravel · Docker |
 | [**TTOD**](https://github.com/ruvebal/ttod) | Plataforma full stack de la asignatura Front End II. Cuentas, sesiones, tokens de API y roles, con 7 PR integradas. | Astro · TypeScript · FastAPI · Python |
 | [**PyKV**](https://github.com/alexxblaro16/software-engineering) | Base de datos clave-valor (log append-only + índice hash, estilo Bitcask) hecha en equipo. | Python · pytest · GitHub Actions |
